@@ -1,0 +1,268 @@
+
+==================== Full Dataset Statistics ====================
+Number of samples: 4000
+
+Query Distribution:
+Original queries: 2000
+Augmented queries: 2000
+
+Department Distribution:
+Warranty Claims: 558 (14.0%)
+Returns & Refunds: 552 (13.8%)
+Billing: 502 (12.6%)
+Product Inquiry: 502 (12.6%)
+Technical Support: 490 (12.2%)
+Order Management: 480 (12.0%)
+Shipping: 458 (11.5%)
+Account Management: 458 (11.5%)
+
+Device Distribution:
+Smartwatch: 532 (13.3%)
+Router: 526 (13.2%)
+Gaming Console: 522 (13.1%)
+Smart TV: 510 (12.8%)
+Smartphone: 502 (12.6%)
+Printer: 480 (12.0%)
+Tablet: 466 (11.7%)
+Laptop: 462 (11.6%)
+
+Time Distribution:
+Hour of day distribution:
+00:00 - 00:59: 180 queries
+01:00 - 01:59: 162 queries
+02:00 - 02:59: 144 queries
+03:00 - 03:59: 144 queries
+04:00 - 04:59: 176 queries
+05:00 - 05:59: 182 queries
+06:00 - 06:59: 170 queries
+07:00 - 07:59: 146 queries
+08:00 - 08:59: 176 queries
+09:00 - 09:59: 128 queries
+10:00 - 10:59: 154 queries
+11:00 - 11:59: 160 queries
+12:00 - 12:59: 180 queries
+13:00 - 13:59: 160 queries
+14:00 - 14:59: 200 queries
+15:00 - 15:59: 182 queries
+16:00 - 16:59: 166 queries
+17:00 - 17:59: 162 queries
+18:00 - 18:59: 170 queries
+19:00 - 19:59: 192 queries
+20:00 - 20:59: 164 queries
+21:00 - 21:59: 184 queries
+22:00 - 22:59: 144 queries
+23:00 - 23:59: 174 queries
+
+Day of week distribution:
+Monday: 548 queries
+Tuesday: 536 queries
+Wednesday: 596 queries
+Thursday: 670 queries
+Friday: 612 queries
+Saturday: 526 queries
+Sunday: 512 queries
+
+==================== Training Dataset Statistics ====================
+Number of samples: 3200
+
+Query Distribution:
+Original queries: 1600
+Augmented queries: 1600
+
+Department Distribution:
+Warranty Claims: 436 (13.6%)
+Returns & Refunds: 436 (13.6%)
+Billing: 414 (12.9%)
+Product Inquiry: 400 (12.5%)
+Technical Support: 396 (12.4%)
+Account Management: 380 (11.9%)
+Order Management: 376 (11.8%)
+Shipping: 362 (11.3%)
+
+Device Distribution:
+Smartwatch: 430 (13.4%)
+Smartphone: 428 (13.4%)
+Router: 416 (13.0%)
+Laptop: 398 (12.4%)
+Gaming Console: 396 (12.4%)
+Smart TV: 394 (12.3%)
+Printer: 374 (11.7%)
+Tablet: 364 (11.4%)
+
+Time Distribution:
+Hour of day distribution:
+00:00 - 00:59: 146 queries
+01:00 - 01:59: 118 queries
+02:00 - 02:59: 122 queries
+03:00 - 03:59: 110 queries
+04:00 - 04:59: 152 queries
+05:00 - 05:59: 136 queries
+06:00 - 06:59: 118 queries
+07:00 - 07:59: 118 queries
+08:00 - 08:59: 144 queries
+09:00 - 09:59: 104 queries
+10:00 - 10:59: 128 queries
+11:00 - 11:59: 128 queries
+12:00 - 12:59: 140 queries
+13:00 - 13:59: 134 queries
+14:00 - 14:59: 160 queries
+15:00 - 15:59: 140 queries
+16:00 - 16:59: 144 queries
+17:00 - 17:59: 138 queries
+18:00 - 18:59: 136 queries
+19:00 - 19:59: 148 queries
+20:00 - 20:59: 128 queries
+21:00 - 21:59: 146 queries
+22:00 - 22:59: 120 queries
+23:00 - 23:59: 142 queries
+
+Day of week distribution:
+Monday: 428 queries
+Tuesday: 418 queries
+Wednesday: 494 queries
+Thursday: 542 queries
+Friday: 494 queries
+Saturday: 406 queries
+Sunday: 418 queries
+
+==================== Validation Dataset Statistics ====================
+Number of samples: 400
+
+Query Distribution:
+Original queries: 200
+Augmented queries: 200
+
+Department Distribution:
+Shipping: 66 (16.5%)
+Warranty Claims: 58 (14.5%)
+Order Management: 58 (14.5%)
+Returns & Refunds: 56 (14.0%)
+Technical Support: 48 (12.0%)
+Product Inquiry: 40 (10.0%)
+Account Management: 38 (9.5%)
+Billing: 36 (9.0%)
+
+Device Distribution:
+Gaming Console: 72 (18.0%)
+Printer: 62 (15.5%)
+Smart TV: 60 (15.0%)
+Tablet: 56 (14.0%)
+Smartwatch: 52 (13.0%)
+Router: 42 (10.5%)
+Laptop: 30 (7.5%)
+Smartphone: 26 (6.5%)
+
+Time Distribution:
+Hour of day distribution:
+00:00 - 00:59: 24 queries
+01:00 - 01:59: 22 queries
+02:00 - 02:59: 12 queries
+03:00 - 03:59: 16 queries
+04:00 - 04:59: 10 queries
+05:00 - 05:59: 24 queries
+06:00 - 06:59: 28 queries
+07:00 - 07:59: 12 queries
+08:00 - 08:59: 10 queries
+09:00 - 09:59: 10 queries
+10:00 - 10:59: 14 queries
+11:00 - 11:59: 14 queries
+12:00 - 12:59: 14 queries
+13:00 - 13:59: 10 queries
+14:00 - 14:59: 20 queries
+15:00 - 15:59: 26 queries
+16:00 - 16:59: 14 queries
+17:00 - 17:59: 12 queries
+18:00 - 18:59: 14 queries
+19:00 - 19:59: 28 queries
+20:00 - 20:59: 22 queries
+21:00 - 21:59: 18 queries
+22:00 - 22:59: 14 queries
+23:00 - 23:59: 12 queries
+
+Day of week distribution:
+Monday: 64 queries
+Tuesday: 48 queries
+Wednesday: 50 queries
+Thursday: 66 queries
+Friday: 72 queries
+Saturday: 56 queries
+Sunday: 44 queries
+
+==================== Test Dataset Statistics ====================
+Number of samples: 400
+
+Query Distribution:
+Original queries: 200
+Augmented queries: 200
+
+Department Distribution:
+Warranty Claims: 64 (16.0%)
+Product Inquiry: 62 (15.5%)
+Returns & Refunds: 60 (15.0%)
+Billing: 52 (13.0%)
+Order Management: 46 (11.5%)
+Technical Support: 46 (11.5%)
+Account Management: 40 (10.0%)
+Shipping: 30 (7.5%)
+
+Device Distribution:
+Router: 68 (17.0%)
+Smart TV: 56 (14.0%)
+Gaming Console: 54 (13.5%)
+Smartwatch: 50 (12.5%)
+Smartphone: 48 (12.0%)
+Tablet: 46 (11.5%)
+Printer: 44 (11.0%)
+Laptop: 34 (8.5%)
+
+Time Distribution:
+Hour of day distribution:
+00:00 - 00:59: 10 queries
+01:00 - 01:59: 22 queries
+02:00 - 02:59: 10 queries
+03:00 - 03:59: 18 queries
+04:00 - 04:59: 14 queries
+05:00 - 05:59: 22 queries
+06:00 - 06:59: 24 queries
+07:00 - 07:59: 16 queries
+08:00 - 08:59: 22 queries
+09:00 - 09:59: 14 queries
+10:00 - 10:59: 12 queries
+11:00 - 11:59: 18 queries
+12:00 - 12:59: 26 queries
+13:00 - 13:59: 16 queries
+14:00 - 14:59: 20 queries
+15:00 - 15:59: 16 queries
+16:00 - 16:59: 8 queries
+17:00 - 17:59: 12 queries
+18:00 - 18:59: 20 queries
+19:00 - 19:59: 16 queries
+20:00 - 20:59: 14 queries
+21:00 - 21:59: 20 queries
+22:00 - 22:59: 10 queries
+23:00 - 23:59: 20 queries
+
+Day of week distribution:
+Monday: 56 queries
+Tuesday: 70 queries
+Wednesday: 52 queries
+Thursday: 62 queries
+Friday: 46 queries
+Saturday: 64 queries
+Sunday: 50 queries
+
+Feature Dimensions:
+n_departments: 8
+n_devices: 8
+max_sequence_length: 512
+
+Split Ratios:
+Training: 80.0%
+Validation: 10.0%
+Test: 10.0%
+
+Dataset Metadata:
+Report generated on: 2025-05-23 18:31:19
+Total number of unique departments: 8
+Total number of unique devices: 8
+Date range: 2025-04-23 15:05:23 to 2025-05-23 14:15:24

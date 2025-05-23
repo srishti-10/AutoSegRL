@@ -1,0 +1,1201 @@
+Query_ID,Query_Text,Department,Device,Time_of_Day,Hour,Day_of_Week,Department_Code,Device_Code
+Q00005,"I hope this message finds you well,
+
+I need assistance with my Laptop regarding a problem that just started this morning. 
+
+Thank you.",Technical Support,Laptop,2025-05-02 06:11:37,6,4,6,4
+Q00005_aug_1,"I hope this message will find you, I need help with my laptop about a problem that just started this morning. Thank you.",Technical Support,Laptop,2025-05-02 06:11:37,6,4,6,4
+Q00016,"I hope this message finds you well,
+
+There seems to be a malfunction with my Printer that needs urgent attention. Please look into this matter urgently.
+
+Thank you.",Shipping,Printer,2025-05-08 02:05:49,2,3,5,2
+Q00016_aug_1,"I hope this message finds you well, there seems to be a malfunction with my printer that needs urgent attention. Please consider this issue of urgency. Thank you.",Shipping,Printer,2025-05-08 02:05:49,2,3,5,2
+Q00017,"Hello team,
+
+This is to bring to your attention an ongoing issue with my Smartwatch that hasn't been resolved yet. Looking forward to your swift assistance.
+
+Thank you.",Warranty Claims,Smartwatch,2025-05-05 11:01:04,11,0,7,0
+Q00017_aug_1,"Hello team, This is to bring to your attention a continuous problem with my Smartwatch that has not yet been solved.",Warranty Claims,Smartwatch,2025-05-05 11:01:04,11,0,7,0
+Q00022,"Good morning,
+
+I'm writing to report a serious issue with my Smartwatch. 
+
+Thank you.",Billing,Smartwatch,2025-05-13 17:28:46,17,1,1,0
+Q00022_aug_1,"Hello, I am writing to report a serious problem with my Smartwatch.",Billing,Smartwatch,2025-05-13 17:28:46,17,1,1,0
+Q00031,"Dear support,
+
+My Smartphone has stopped functioning properly and I need help resolving the issue. Kindly resolve this issue as soon as possible.
+
+Thank you.",Product Inquiry,Smartphone,2025-05-14 01:58:00,1,2,3,6
+Q00031_aug_1,"Dear support, My Smartphone has stopped working properly and I need help solving the problem.",Product Inquiry,Smartphone,2025-05-14 01:58:00,1,2,3,6
+Q00035,"Hi there,
+
+I'm writing to report a serious issue with my Gaming Console. Kindly resolve this issue as soon as possible.
+
+Thank you.",Product Inquiry,Gaming Console,2025-04-29 22:58:34,22,1,3,1
+Q00035_aug_1,"Hello, I am writing to report a serious problem with my game console. Please solve this problem as soon as possible. Thank you.",Product Inquiry,Gaming Console,2025-04-29 22:58:34,22,1,3,1
+Q00037,"Dear support,
+
+This is to bring to your attention an ongoing issue with my Smartphone that hasn't been resolved yet. 
+
+Thank you.",Returns & Refunds,Smartphone,2025-05-15 12:46:34,12,3,4,6
+Q00037_aug_1,"Dear support, This is to bring to your attention a permanent problem with my smartphone that has not yet been solved. Thank you.",Returns & Refunds,Smartphone,2025-05-15 12:46:34,12,3,4,6
+Q00041,"Dear support,
+
+I noticed some irregular behavior with my Tablet that I believe your team should look into. Kindly resolve this issue as soon as possible.
+
+Thank you.",Shipping,Tablet,2025-05-22 19:15:57,19,3,5,5
+Q00041_aug_1,"Dear support, I noticed an irregular behavior with my tablet that I think your team should examine. Please solve this problem as soon as possible. Thank you.",Shipping,Tablet,2025-05-22 19:15:57,19,3,5,5
+Q00049,"Hello,
+
+I've been facing persistent problems with my Router. 
+
+Thank you.",Shipping,Router,2025-05-08 04:37:15,4,3,5,7
+Q00049_aug_1,"Hello, I have been confronted with persistent problems with my router.",Shipping,Router,2025-05-08 04:37:15,4,3,5,7
+Q00075,"Good morning,
+
+I noticed some irregular behavior with my Smart TV that I believe your team should look into. I would appreciate a prompt response.
+
+Thank you.",Warranty Claims,Smart TV,2025-05-18 03:26:17,3,6,7,3
+Q00075_aug_1,"Hello, I noticed an irregular behavior with my Smart TV that I think your team should review. I would appreciate a quick answer. Thank you.",Warranty Claims,Smart TV,2025-05-18 03:26:17,3,6,7,3
+Q00078,"Hello team,
+
+This is to bring to your attention an ongoing issue with my Laptop that hasn't been resolved yet. 
+
+Thank you.",Returns & Refunds,Laptop,2025-04-30 17:37:00,17,2,4,4
+Q00078_aug_1,"Hello team, This is to bring to your attention a permanent problem with my laptop that has not yet been solved. Thank you.",Returns & Refunds,Laptop,2025-04-30 17:37:00,17,2,4,4
+Q00084,"Hello,
+
+After the recent update, my Tablet isn't working as expected. 
+
+Thank you.",Billing,Tablet,2025-05-22 06:50:23,6,3,1,5
+Q00084_aug_1,"Hello, After the recent update, my tablet doesn't work as expected. Thank you.",Billing,Tablet,2025-05-22 06:50:23,6,3,1,5
+Q00091,"Good evening,
+
+After the recent update, my Smart TV isn't working as expected. 
+
+Thank you.",Order Management,Smart TV,2025-05-01 09:03:48,9,3,2,3
+Q00091_aug_1,"Good evening, after the recent update, my Smart TV doesn't work as planned. Thank you.",Order Management,Smart TV,2025-05-01 09:03:48,9,3,2,3
+Q00098,"Hi there,
+
+My Printer has stopped functioning properly and I need help resolving the issue. 
+
+Thank you.",Technical Support,Printer,2025-04-24 21:35:39,21,3,6,2
+Q00098_aug_1,"Hello, my printer stopped working properly and I need help solving the problem. Thank you.",Technical Support,Printer,2025-04-24 21:35:39,21,3,6,2
+Q00146,"Dear support,
+
+There seems to be a malfunction with my Router that needs urgent attention. 
+
+Thank you.",Order Management,Router,2025-05-03 12:09:14,12,5,2,7
+Q00146_aug_1,"Dear support, there seems to be a malfunction with my router who needs urgent attention. Thank you.",Order Management,Router,2025-05-03 12:09:14,12,5,2,7
+Q00160,"Dear support,
+
+I've been facing persistent problems with my Gaming Console. 
+
+Thank you.",Product Inquiry,Gaming Console,2025-05-07 08:47:46,8,2,3,1
+Q00160_aug_1,"Dear support, I have been confronted with persistent problems with my game console. Thank you.",Product Inquiry,Gaming Console,2025-05-07 08:47:46,8,2,3,1
+Q00166,"To whom it may concern,
+
+After the recent update, my Smart TV isn't working as expected. 
+
+Thank you.",Order Management,Smart TV,2025-05-20 06:27:04,6,1,2,3
+Q00166_aug_1,"To whom this may concern, After the recent update, my Smart TV does not work as planned. Thank you.",Order Management,Smart TV,2025-05-20 06:27:04,6,1,2,3
+Q00180,"Hello team,
+
+This is to bring to your attention an ongoing issue with my Smart TV that hasn't been resolved yet. I would appreciate a prompt response.
+
+Thank you.",Billing,Smart TV,2025-05-21 20:15:33,20,2,1,3
+Q00180_aug_1,"Hello team, This is to bring to your attention a continuous problem with my Smart TV that has not yet been solved. I would like a quick answer. Thank you.",Billing,Smart TV,2025-05-21 20:15:33,20,2,1,3
+Q00208,"I hope this message finds you well,
+
+I need assistance with my Laptop regarding a problem that just started this morning. 
+
+Thank you.",Technical Support,Laptop,2025-04-26 02:20:54,2,5,6,4
+Q00208_aug_1,"I hope this message will find you, I need help with my laptop about a problem that just started this morning. Thank you.",Technical Support,Laptop,2025-04-26 02:20:54,2,5,6,4
+Q00209,"Good evening,
+
+I noticed some irregular behavior with my Gaming Console that I believe your team should look into. Please look into this matter urgently.
+
+Thank you.",Billing,Gaming Console,2025-05-19 14:11:17,14,0,1,1
+Q00209_aug_1,"Good evening, I noticed an irregular behavior with my game console that I think your team should examine. Please, consider this issue of urgency. Thank you.",Billing,Gaming Console,2025-05-19 14:11:17,14,0,1,1
+Q00210,"Dear support,
+
+My Smart TV has stopped functioning properly and I need help resolving the issue. I would appreciate a prompt response.
+
+Thank you.",Account Management,Smart TV,2025-05-05 19:04:45,19,0,0,3
+Q00210_aug_1,"Dear support, My Smart TV stopped working properly and I need help to solve the problem. I would appreciate a quick answer. Thank you.",Account Management,Smart TV,2025-05-05 19:04:45,19,0,0,3
+Q00215,"Hello,
+
+I've been facing persistent problems with my Smart TV. 
+
+Thank you.",Technical Support,Smart TV,2025-05-15 03:35:27,3,3,6,3
+Q00215_aug_1,"Hello, I've been confronted with persistent problems with my Smart TV. Thank you.",Technical Support,Smart TV,2025-05-15 03:35:27,3,3,6,3
+Q00244,"Hi there,
+
+This is to bring to your attention an ongoing issue with my Smartwatch that hasn't been resolved yet. Please look into this matter urgently.
+
+Thank you.",Technical Support,Smartwatch,2025-05-15 04:48:11,4,3,6,0
+Q00244_aug_1,"Hello, This is to bring to your attention a permanent problem with my Smartwatch that has not yet been solved. Please consider this issue of urgency. Thank you.",Technical Support,Smartwatch,2025-05-15 04:48:11,4,3,6,0
+Q00246,"To whom it may concern,
+
+I noticed some irregular behavior with my Tablet that I believe your team should look into. 
+
+Thank you.",Returns & Refunds,Tablet,2025-05-02 18:11:48,18,4,4,5
+Q00246_aug_1,"To whom it may concern, I noticed an irregular behavior with my tablet that I think your team should examine.",Returns & Refunds,Tablet,2025-05-02 18:11:48,18,4,4,5
+Q00275,"Good morning,
+
+I noticed some irregular behavior with my Smartphone that I believe your team should look into. 
+
+Thank you.",Warranty Claims,Smartphone,2025-04-29 10:42:02,10,1,7,6
+Q00275_aug_1,"Hello, I noticed an irregular behavior with my Smartphone that I think your team should examine.",Warranty Claims,Smartphone,2025-04-29 10:42:02,10,1,7,6
+Q00279,"Good morning,
+
+Could you please assist with an unexpected error I've encountered on my Gaming Console? I would appreciate a prompt response.
+
+Thank you.",Warranty Claims,Gaming Console,2025-05-19 15:11:52,15,0,7,1
+Q00279_aug_1,"Hello, could you help us with an unexpected mistake that I encountered on my game console? I would appreciate a quick answer. Thank you.",Warranty Claims,Gaming Console,2025-05-19 15:11:52,15,0,7,1
+Q00287,"Good evening,
+
+After the recent update, my Smart TV isn't working as expected. 
+
+Thank you.",Returns & Refunds,Smart TV,2025-05-06 01:13:51,1,1,4,3
+Q00287_aug_1,"Good evening, after the recent update, my Smart TV doesn't work as planned. Thank you.",Returns & Refunds,Smart TV,2025-05-06 01:13:51,1,1,4,3
+Q00312,"Hello,
+
+I've been facing persistent problems with my Tablet. Looking forward to your swift assistance.
+
+Thank you.",Order Management,Tablet,2025-05-23 04:03:11,4,4,2,5
+Q00312_aug_1,"Hello, I have been confronted with persistent problems with my tablet. I look forward to your quick help. Thank you.",Order Management,Tablet,2025-05-23 04:03:11,4,4,2,5
+Q00331,"I hope this message finds you well,
+
+My recent experience with the Tablet has been quite disappointing due to several bugs. Please address this issue at your earliest convenience.
+
+Thank you.",Returns & Refunds,Tablet,2025-04-25 18:01:33,18,4,4,5
+Q00331_aug_1,"I hope this message finds you well, My recent experience with the tablet has been quite disappointing due to several bugs. Please address this problem as soon as possible. Thank you.",Returns & Refunds,Tablet,2025-04-25 18:01:33,18,4,4,5
+Q00342,"Hello team,
+
+This is to bring to your attention an ongoing issue with my Smart TV that hasn't been resolved yet. Please look into this matter urgently.
+
+Thank you.",Account Management,Smart TV,2025-04-30 07:09:11,7,2,0,3
+Q00342_aug_1,"Hello team, This is to bring to your attention a continuous problem with my Smart TV that has not yet been solved. Please consider this issue of urgency. Thank you.",Account Management,Smart TV,2025-04-30 07:09:11,7,2,0,3
+Q00344,"Dear support,
+
+I've been facing persistent problems with my Gaming Console. 
+
+Thank you.",Order Management,Gaming Console,2025-05-02 15:41:24,15,4,2,1
+Q00344_aug_1,"Dear support, I have been confronted with persistent problems with my game console. Thank you.",Order Management,Gaming Console,2025-05-02 15:41:24,15,4,2,1
+Q00350,"To whom it may concern,
+
+I've been facing persistent problems with my Smartwatch. I would appreciate a prompt response.
+
+Thank you.",Returns & Refunds,Smartwatch,2025-05-15 05:33:29,5,3,4,0
+Q00350_aug_1,"To whom this may concern me, I have been confronted with persistent problems with my Smartwatch. I would appreciate a quick answer. Thank you.",Returns & Refunds,Smartwatch,2025-05-15 05:33:29,5,3,4,0
+Q00382,"Hello,
+
+This is to bring to your attention an ongoing issue with my Printer that hasn't been resolved yet. Kindly resolve this issue as soon as possible.
+
+Thank you.",Shipping,Printer,2025-04-24 06:01:45,6,3,5,2
+Q00382_aug_1,"Hello, This is to bring to your attention a permanent problem with my printer that has not yet been solved. Please solve this problem as soon as possible. Thank you.",Shipping,Printer,2025-04-24 06:01:45,6,3,5,2
+Q00393,"Hi there,
+
+I need assistance with my Printer regarding a problem that just started this morning. 
+
+Thank you.",Shipping,Printer,2025-05-07 10:49:33,10,2,5,2
+Q00393_aug_1,"Hello, I need help with my printer for a problem that just started this morning.",Shipping,Printer,2025-05-07 10:49:33,10,2,5,2
+Q00395,"Hello,
+
+My recent experience with the Printer has been quite disappointing due to several bugs. 
+
+Thank you.",Account Management,Printer,2025-05-13 21:53:38,21,1,0,2
+Q00395_aug_1,"Hello, My recent experience with the printer has been quite disappointing due to several bugs. Thank you.",Account Management,Printer,2025-05-13 21:53:38,21,1,0,2
+Q00397,"Dear support,
+
+My recent experience with the Router has been quite disappointing due to several bugs. Please address this issue at your earliest convenience.
+
+Thank you.",Billing,Router,2025-05-07 09:57:15,9,2,1,7
+Q00397_aug_1,"Dear support, My recent experience with the Router has been quite disappointing due to several bugs. Please address this problem as soon as possible. Thank you.",Billing,Router,2025-05-07 09:57:15,9,2,1,7
+Q00424,"Hello,
+
+There seems to be a malfunction with my Gaming Console that needs urgent attention. Please address this issue at your earliest convenience.
+
+Thank you.",Billing,Gaming Console,2025-04-26 05:01:24,5,5,1,1
+Q00424_aug_1,"Hello, There seems to be a malfunction with my game console that needs urgent attention. Please treat this problem as soon as possible. Thank you.",Billing,Gaming Console,2025-04-26 05:01:24,5,5,1,1
+Q00428,"Hi there,
+
+My recent experience with the Laptop has been quite disappointing due to several bugs. Looking forward to your swift assistance.
+
+Thank you.",Product Inquiry,Laptop,2025-05-18 07:15:50,7,6,3,4
+Q00428_aug_1,"Hello, My recent experience with the Laptop has been quite disappointing due to several bugs. Waiting for your quick help. Thank you.",Product Inquiry,Laptop,2025-05-18 07:15:50,7,6,3,4
+Q00435,"Hello,
+
+Could you please assist with an unexpected error I've encountered on my Printer? I would appreciate a prompt response.
+
+Thank you.",Warranty Claims,Printer,2025-05-20 16:19:22,16,1,7,2
+Q00435_aug_1,"Hello, could you help us with an unexpected mistake that I encountered on my printer? I would appreciate a quick answer. Thank you.",Warranty Claims,Printer,2025-05-20 16:19:22,16,1,7,2
+Q00467,"Dear support,
+
+I noticed some irregular behavior with my Smartwatch that I believe your team should look into. Looking forward to your swift assistance.
+
+Thank you.",Shipping,Smartwatch,2025-05-03 08:21:20,8,5,5,0
+Q00467_aug_1,"Dear support, I noticed an irregular behavior with my Smartwatch that I think your team should examine.",Shipping,Smartwatch,2025-05-03 08:21:20,8,5,5,0
+Q00485,"Good evening,
+
+My recent experience with the Smart TV has been quite disappointing due to several bugs. I would appreciate a prompt response.
+
+Thank you.",Returns & Refunds,Smart TV,2025-05-21 00:23:16,0,2,4,3
+Q00485_aug_1,"Good evening, my recent experience with Smart TV has been quite disappointing due to several bugs. I would appreciate a quick answer. Thank you.",Returns & Refunds,Smart TV,2025-05-21 00:23:16,0,2,4,3
+Q00487,"Good morning,
+
+I've been facing persistent problems with my Smartwatch. I would appreciate a prompt response.
+
+Thank you.",Billing,Smartwatch,2025-05-03 16:10:07,16,5,1,0
+Q00487_aug_1,"Hello, I have been confronted with persistent problems with my Smartwatch. I would appreciate a quick answer. Thank you.",Billing,Smartwatch,2025-05-03 16:10:07,16,5,1,0
+Q00509,"Hi there,
+
+I need assistance with my Tablet regarding a problem that just started this morning. Looking forward to your swift assistance.
+
+Thank you.",Shipping,Tablet,2025-05-18 15:25:57,15,6,5,5
+Q00509_aug_1,"Hello, I need help with my tablet about a problem that just started this morning.",Shipping,Tablet,2025-05-18 15:25:57,15,6,5,5
+Q00515,"Dear support,
+
+I've been facing persistent problems with my Gaming Console. Please look into this matter urgently.
+
+Thank you.",Returns & Refunds,Gaming Console,2025-04-29 20:17:14,20,1,4,1
+Q00515_aug_1,"Dear support, I have been confronted with persistent problems with my gaming console. Please consider this issue of urgency. Thank you.",Returns & Refunds,Gaming Console,2025-04-29 20:17:14,20,1,4,1
+Q00517,"To whom it may concern,
+
+There seems to be a malfunction with my Tablet that needs urgent attention. 
+
+Thank you.",Product Inquiry,Tablet,2025-05-07 04:19:43,4,2,3,5
+Q00517_aug_1,"To whom it may concern, there seems to be a malfunction with my tablet that needs urgent attention. Thank you.",Product Inquiry,Tablet,2025-05-07 04:19:43,4,2,3,5
+Q00529,"To whom it may concern,
+
+Could you please assist with an unexpected error I've encountered on my Laptop? 
+
+Thank you.",Technical Support,Laptop,2025-04-28 22:54:38,22,0,6,4
+Q00529_aug_1,"For whom can it concern, could you help with an unexpected mistake that I encountered on my laptop? Thank you.",Technical Support,Laptop,2025-04-28 22:54:38,22,0,6,4
+Q00537,"Hi there,
+
+After the recent update, my Router isn't working as expected. 
+
+Thank you.",Product Inquiry,Router,2025-04-28 06:35:01,6,0,3,7
+Q00537_aug_1,"Hello, after the recent update, my Router doesn't work as planned. Thank you.",Product Inquiry,Router,2025-04-28 06:35:01,6,0,3,7
+Q00538,"Hello,
+
+I'm writing to report a serious issue with my Smartwatch. Please address this issue at your earliest convenience.
+
+Thank you.",Order Management,Smartwatch,2025-04-23 17:48:20,17,2,2,0
+Q00538_aug_1,"Hello, I am writing to report a serious problem with my Smartwatch. Please address this problem as soon as possible. Thank you.",Order Management,Smartwatch,2025-04-23 17:48:20,17,2,2,0
+Q00559,"Hello,
+
+I'm writing to report a serious issue with my Printer. 
+
+Thank you.",Technical Support,Printer,2025-05-05 06:13:54,6,0,6,2
+Q00559_aug_1,"Hello, I'm writing to report a serious problem with my printer.",Technical Support,Printer,2025-05-05 06:13:54,6,0,6,2
+Q00567,"Hello team,
+
+There seems to be a malfunction with my Smartphone that needs urgent attention. 
+
+Thank you.",Warranty Claims,Smartphone,2025-05-10 11:37:56,11,5,7,6
+Q00567_aug_1,"Hello team, there seems to be a malfunction with my smartphone that needs urgent attention. Thank you.",Warranty Claims,Smartphone,2025-05-10 11:37:56,11,5,7,6
+Q00568,"Hello team,
+
+My recent experience with the Tablet has been quite disappointing due to several bugs. 
+
+Thank you.",Product Inquiry,Tablet,2025-05-11 02:27:43,2,6,3,5
+Q00568_aug_1,"Hello team, My recent experience with the tablet has been quite disappointing due to several bugs. Thank you.",Product Inquiry,Tablet,2025-05-11 02:27:43,2,6,3,5
+Q00578,"Dear support,
+
+I need assistance with my Router regarding a problem that just started this morning. Please address this issue at your earliest convenience.
+
+Thank you.",Warranty Claims,Router,2025-05-10 11:24:46,11,5,7,7
+Q00578_aug_1,"Dear support, I need help with my router on a problem that just started this morning. Please address this problem as soon as possible. Thank you.",Warranty Claims,Router,2025-05-10 11:24:46,11,5,7,7
+Q00579,"Good morning,
+
+I noticed some irregular behavior with my Printer that I believe your team should look into. 
+
+Thank you.",Technical Support,Printer,2025-05-01 06:25:30,6,3,6,2
+Q00579_aug_1,"Hello, I noticed an irregular behavior with my printer that I think your team should examine.",Technical Support,Printer,2025-05-01 06:25:30,6,3,6,2
+Q00589,"Hi there,
+
+Could you please assist with an unexpected error I've encountered on my Smartwatch? 
+
+Thank you.",Product Inquiry,Smartwatch,2025-04-25 12:35:32,12,4,3,0
+Q00589_aug_1,"Hello, could you help us with an unexpected mistake I met on my Smartwatch? Thank you.",Product Inquiry,Smartwatch,2025-04-25 12:35:32,12,4,3,0
+Q00591,"Hi there,
+
+This is to bring to your attention an ongoing issue with my Router that hasn't been resolved yet. Please address this issue at your earliest convenience.
+
+Thank you.",Account Management,Router,2025-04-24 20:47:58,20,3,0,7
+Q00591_aug_1,"Hello, This is to bring to your attention a continuous problem with my router that has not yet been solved. Please address this problem as soon as possible. Thank you.",Account Management,Router,2025-04-24 20:47:58,20,3,0,7
+Q00593,"Hello,
+
+I'm writing to report a serious issue with my Router. Please address this issue at your earliest convenience.
+
+Thank you.",Billing,Router,2025-05-05 08:50:30,8,0,1,7
+Q00593_aug_1,"Hello, I am writing to report a serious problem with my router. Please address this problem as soon as possible. Thank you.",Billing,Router,2025-05-05 08:50:30,8,0,1,7
+Q00601,"Dear support,
+
+Could you please assist with an unexpected error I've encountered on my Printer? 
+
+Thank you.",Warranty Claims,Printer,2025-05-04 00:20:04,0,6,7,2
+Q00601_aug_1,"Dear support, could you help us with an unexpected mistake that I met on my printer? Thank you.",Warranty Claims,Printer,2025-05-04 00:20:04,0,6,7,2
+Q00611,"Hello,
+
+My recent experience with the Smartwatch has been quite disappointing due to several bugs. Please look into this matter urgently.
+
+Thank you.",Warranty Claims,Smartwatch,2025-05-17 06:24:35,6,5,7,0
+Q00611_aug_1,"Hello, My recent experience with the Smartwatch has been quite disappointing due to several bugs. Please consider this issue of urgency. Thank you.",Warranty Claims,Smartwatch,2025-05-17 06:24:35,6,5,7,0
+Q00614,"Good morning,
+
+There seems to be a malfunction with my Router that needs urgent attention. 
+
+Thank you.",Order Management,Router,2025-04-27 19:58:58,19,6,2,7
+Q00614_aug_1,"Hello, there seems to be a malfunction with my router that needs urgent attention.",Order Management,Router,2025-04-27 19:58:58,19,6,2,7
+Q00644,"Dear support,
+
+Could you please assist with an unexpected error I've encountered on my Smart TV? Kindly resolve this issue as soon as possible.
+
+Thank you.",Technical Support,Smart TV,2025-05-14 06:41:43,6,2,6,3
+Q00644_aug_1,"Dear support, Could you help with an unexpected mistake that I encountered on my Smart TV? Please solve this problem as soon as possible. Thank you.",Technical Support,Smart TV,2025-05-14 06:41:43,6,2,6,3
+Q00649,"Hi there,
+
+There seems to be a malfunction with my Tablet that needs urgent attention. 
+
+Thank you.",Shipping,Tablet,2025-05-09 20:11:58,20,4,5,5
+Q00649_aug_1,"Hello, there seems to be a malfunction with my tablet that needs urgent attention.",Shipping,Tablet,2025-05-09 20:11:58,20,4,5,5
+Q00651,"Hello,
+
+My Smartphone has stopped functioning properly and I need help resolving the issue. Please look into this matter urgently.
+
+Thank you.",Product Inquiry,Smartphone,2025-04-30 00:07:46,0,2,3,6
+Q00651_aug_1,"Hello, My Smartphone stopped working properly and I need help solving the problem.",Product Inquiry,Smartphone,2025-04-30 00:07:46,0,2,3,6
+Q00654,"Good morning,
+
+I've been facing persistent problems with my Smartphone. 
+
+Thank you.",Returns & Refunds,Smartphone,2025-05-04 01:54:05,1,6,4,6
+Q00654_aug_1,"Hello, I've been confronted with persistent problems with my Smartphone.",Returns & Refunds,Smartphone,2025-05-04 01:54:05,1,6,4,6
+Q00656,"I hope this message finds you well,
+
+After the recent update, my Gaming Console isn't working as expected. 
+
+Thank you.",Shipping,Gaming Console,2025-05-16 23:29:22,23,4,5,1
+Q00656_aug_1,"I hope this message will find you well, After the recent update, my game console doesn't work as expected. Thank you.",Shipping,Gaming Console,2025-05-16 23:29:22,23,4,5,1
+Q00666,"Hello,
+
+There seems to be a malfunction with my Tablet that needs urgent attention. 
+
+Thank you.",Shipping,Tablet,2025-05-08 14:50:28,14,3,5,5
+Q00666_aug_1,"Hello, there seems to be a malfunction with my tablet that needs urgent attention.",Shipping,Tablet,2025-05-08 14:50:28,14,3,5,5
+Q00667,"Hello team,
+
+After the recent update, my Gaming Console isn't working as expected. 
+
+Thank you.",Order Management,Gaming Console,2025-04-27 16:23:04,16,6,2,1
+Q00667_aug_1,"Hello team, After the recent update, my game console doesn't work as expected. Thank you.",Order Management,Gaming Console,2025-04-27 16:23:04,16,6,2,1
+Q00673,"Good morning,
+
+After the recent update, my Router isn't working as expected. 
+
+Thank you.",Returns & Refunds,Router,2025-05-07 18:54:20,18,2,4,7
+Q00673_aug_1,"Hello, after the recent update, my Router doesn't work as planned.",Returns & Refunds,Router,2025-05-07 18:54:20,18,2,4,7
+Q00684,"I hope this message finds you well,
+
+There seems to be a malfunction with my Gaming Console that needs urgent attention. 
+
+Thank you.",Billing,Gaming Console,2025-05-20 03:43:34,3,1,1,1
+Q00684_aug_1,"I hope this message finds you well, there seems to be a malfunction with my game console that needs urgent attention. Thank you.",Billing,Gaming Console,2025-05-20 03:43:34,3,1,1,1
+Q00686,"To whom it may concern,
+
+My Router has stopped functioning properly and I need help resolving the issue. 
+
+Thank you.",Returns & Refunds,Router,2025-04-24 09:50:51,9,3,4,7
+Q00686_aug_1,"To whom this may concern, My Router has stopped working properly and I need help to solve the problem. Thank you.",Returns & Refunds,Router,2025-04-24 09:50:51,9,3,4,7
+Q00693,"Hello,
+
+Could you please assist with an unexpected error I've encountered on my Tablet? 
+
+Thank you.",Technical Support,Tablet,2025-05-03 01:17:46,1,5,6,5
+Q00693_aug_1,"Hi, could you help us with an unexpected mistake I met on my tablet?",Technical Support,Tablet,2025-05-03 01:17:46,1,5,6,5
+Q00697,"Hello team,
+
+I need assistance with my Smart TV regarding a problem that just started this morning. 
+
+Thank you.",Account Management,Smart TV,2025-04-25 22:45:01,22,4,0,3
+Q00697_aug_1,"Hello team, I need help with my Smart TV about a problem that just started this morning. Thank you.",Account Management,Smart TV,2025-04-25 22:45:01,22,4,0,3
+Q00701,"Dear support,
+
+My Tablet has stopped functioning properly and I need help resolving the issue. 
+
+Thank you.",Warranty Claims,Tablet,2025-05-10 19:34:18,19,5,7,5
+Q00701_aug_1,"Dear support, My tablet stopped working properly and I need help solving the problem. Thank you.",Warranty Claims,Tablet,2025-05-10 19:34:18,19,5,7,5
+Q00706,"Good evening,
+
+After the recent update, my Smartphone isn't working as expected. 
+
+Thank you.",Shipping,Smartphone,2025-04-27 23:48:42,23,6,5,6
+Q00706_aug_1,"Good evening, after the recent update, my Smartphone doesn't work as planned. Thank you.",Shipping,Smartphone,2025-04-27 23:48:42,23,6,5,6
+Q00724,"Good morning,
+
+There seems to be a malfunction with my Printer that needs urgent attention. 
+
+Thank you.",Order Management,Printer,2025-05-02 09:40:24,9,4,2,2
+Q00724_aug_1,"Hello, there seems to be a malfunction with my printer that needs urgent attention.",Order Management,Printer,2025-05-02 09:40:24,9,4,2,2
+Q00725,"Hello team,
+
+I'm writing to report a serious issue with my Smartphone. Looking forward to your swift assistance.
+
+Thank you.",Shipping,Smartphone,2025-05-15 05:06:43,5,3,5,6
+Q00725_aug_1,"Hello team, I'm writing to report a serious problem with my Smartphone.",Shipping,Smartphone,2025-05-15 05:06:43,5,3,5,6
+Q00727,"Hi there,
+
+I'm writing to report a serious issue with my Tablet. 
+
+Thank you.",Account Management,Tablet,2025-05-13 00:17:40,0,1,0,5
+Q00727_aug_1,"Hello, I'm writing to report a serious problem with my tablet.",Account Management,Tablet,2025-05-13 00:17:40,0,1,0,5
+Q00733,"Dear support,
+
+There seems to be a malfunction with my Tablet that needs urgent attention. Please look into this matter urgently.
+
+Thank you.",Technical Support,Tablet,2025-05-02 12:57:02,12,4,6,5
+Q00733_aug_1,"Dear support, There seems to be a malfunction with my tablet that needs urgent attention. Please consider this issue of urgency. Thank you.",Technical Support,Tablet,2025-05-02 12:57:02,12,4,6,5
+Q00734,"Hello,
+
+This is to bring to your attention an ongoing issue with my Router that hasn't been resolved yet. 
+
+Thank you.",Returns & Refunds,Router,2025-05-03 06:20:56,6,5,4,7
+Q00734_aug_1,"Hello, This is to bring to your attention a continuous problem with my Router that has not yet been solved. Thank you.",Returns & Refunds,Router,2025-05-03 06:20:56,6,5,4,7
+Q00740,"Dear support,
+
+This is to bring to your attention an ongoing issue with my Smartwatch that hasn't been resolved yet. 
+
+Thank you.",Technical Support,Smartwatch,2025-05-19 08:36:58,8,0,6,0
+Q00740_aug_1,"Dear support, This is to bring to your attention a permanent problem with my Smartwatch that has not yet been solved. Thank you.",Technical Support,Smartwatch,2025-05-19 08:36:58,8,0,6,0
+Q00754,"Good evening,
+
+After the recent update, my Printer isn't working as expected. 
+
+Thank you.",Account Management,Printer,2025-05-01 16:46:30,16,3,0,2
+Q00754_aug_1,"Good evening, after the recent update, my printer doesn't work as planned.",Account Management,Printer,2025-05-01 16:46:30,16,3,0,2
+Q00770,"Hello team,
+
+I noticed some irregular behavior with my Smart TV that I believe your team should look into. 
+
+Thank you.",Warranty Claims,Smart TV,2025-05-04 15:27:50,15,6,7,3
+Q00770_aug_1,"Hello team, I noticed an irregular behavior with my Smart TV that I think your team should review.",Warranty Claims,Smart TV,2025-05-04 15:27:50,15,6,7,3
+Q00782,"I hope this message finds you well,
+
+After the recent update, my Laptop isn't working as expected. Kindly resolve this issue as soon as possible.
+
+Thank you.",Product Inquiry,Laptop,2025-05-03 07:33:42,7,5,3,4
+Q00782_aug_1,"I hope this message will find you well, After the recent update, my laptop does not work as expected.",Product Inquiry,Laptop,2025-05-03 07:33:42,7,5,3,4
+Q00789,"To whom it may concern,
+
+There seems to be a malfunction with my Printer that needs urgent attention. Please address this issue at your earliest convenience.
+
+Thank you.",Technical Support,Printer,2025-05-11 10:01:42,10,6,6,2
+Q00789_aug_1,"To whom this may concern, There seems to be a malfunction with my Printer that needs urgent attention. Please treat this problem as soon as possible. Thank you.",Technical Support,Printer,2025-05-11 10:01:42,10,6,6,2
+Q00794,"I hope this message finds you well,
+
+I've been facing persistent problems with my Smart TV. Please address this issue at your earliest convenience.
+
+Thank you.",Technical Support,Smart TV,2025-05-14 19:40:44,19,2,6,3
+Q00794_aug_1,"I hope this message finds you well, I have been confronted with persistent problems with my Smart TV. Please address this problem as soon as possible. Thank you.",Technical Support,Smart TV,2025-05-14 19:40:44,19,2,6,3
+Q00805,"Dear support,
+
+Could you please assist with an unexpected error I've encountered on my Printer? 
+
+Thank you.",Account Management,Printer,2025-05-17 07:34:41,7,5,0,2
+Q00805_aug_1,"Dear support, could you help us with an unexpected mistake that I met on my printer? Thank you.",Account Management,Printer,2025-05-17 07:34:41,7,5,0,2
+Q00810,"Hello team,
+
+This is to bring to your attention an ongoing issue with my Tablet that hasn't been resolved yet. 
+
+Thank you.",Shipping,Tablet,2025-05-10 01:28:53,1,5,5,5
+Q00810_aug_1,"Hello team, This is to bring to your attention a continuous problem with my tablet that has not yet been solved. Thank you.",Shipping,Tablet,2025-05-10 01:28:53,1,5,5,5
+Q00815,"Hello,
+
+My Router has stopped functioning properly and I need help resolving the issue. 
+
+Thank you.",Billing,Router,2025-05-09 17:52:17,17,4,1,7
+Q00815_aug_1,"Hello, My Router stopped working properly and I need help solving the problem. Thank you.",Billing,Router,2025-05-09 17:52:17,17,4,1,7
+Q00834,"I hope this message finds you well,
+
+I'm writing to report a serious issue with my Gaming Console. 
+
+Thank you.",Billing,Gaming Console,2025-05-17 01:22:17,1,5,1,1
+Q00834_aug_1,"I hope this message will find you, I am writing to report a serious problem with my game console. Thank you.",Billing,Gaming Console,2025-05-17 01:22:17,1,5,1,1
+Q00836,"Good evening,
+
+There seems to be a malfunction with my Printer that needs urgent attention. 
+
+Thank you.",Shipping,Printer,2025-04-28 15:35:30,15,0,5,2
+Q00836_aug_1,"Good evening, there seems to be a malfunction with my printer that needs urgent attention.",Shipping,Printer,2025-04-28 15:35:30,15,0,5,2
+Q00851,"Good evening,
+
+I need assistance with my Smart TV regarding a problem that just started this morning. Looking forward to your swift assistance.
+
+Thank you.",Account Management,Smart TV,2025-05-19 05:55:36,5,0,0,3
+Q00851_aug_1,"Good evening, I need help with my Smart TV about a problem that just started this morning.",Account Management,Smart TV,2025-05-19 05:55:36,5,0,0,3
+Q00870,"To whom it may concern,
+
+After the recent update, my Gaming Console isn't working as expected. I would appreciate a prompt response.
+
+Thank you.",Technical Support,Gaming Console,2025-05-13 15:55:17,15,1,6,1
+Q00870_aug_1,"To whom it may concern, After the recent update, my game console does not work as expected. I would appreciate a quick answer. Thank you.",Technical Support,Gaming Console,2025-05-13 15:55:17,15,1,6,1
+Q00924,"Hello team,
+
+There seems to be a malfunction with my Smartwatch that needs urgent attention. Looking forward to your swift assistance.
+
+Thank you.",Warranty Claims,Smartwatch,2025-05-04 00:18:24,0,6,7,0
+Q00924_aug_1,"Hello team, there seems to be a malfunction with my Smartwatch that needs urgent attention.",Warranty Claims,Smartwatch,2025-05-04 00:18:24,0,6,7,0
+Q00941,"Good evening,
+
+I need assistance with my Gaming Console regarding a problem that just started this morning. 
+
+Thank you.",Warranty Claims,Gaming Console,2025-05-05 14:59:45,14,0,7,1
+Q00941_aug_1,"Good evening, I need help with my game console about a problem that just started this morning. Thank you.",Warranty Claims,Gaming Console,2025-05-05 14:59:45,14,0,7,1
+Q00947,"I hope this message finds you well,
+
+I noticed some irregular behavior with my Router that I believe your team should look into. 
+
+Thank you.",Shipping,Router,2025-05-21 21:38:56,21,2,5,7
+Q00947_aug_1,"I hope this message will find you, I noticed an irregular behavior with my router that I think your team should examine. Thank you.",Shipping,Router,2025-05-21 21:38:56,21,2,5,7
+Q00953,"Good evening,
+
+This is to bring to your attention an ongoing issue with my Laptop that hasn't been resolved yet. 
+
+Thank you.",Warranty Claims,Laptop,2025-05-18 21:06:04,21,6,7,4
+Q00953_aug_1,"Good evening, this is to bring to your attention a permanent problem with my laptop that has not yet been solved. Thank you.",Warranty Claims,Laptop,2025-05-18 21:06:04,21,6,7,4
+Q00958,"Good morning,
+
+I noticed some irregular behavior with my Smartphone that I believe your team should look into. 
+
+Thank you.",Order Management,Smartphone,2025-04-29 13:48:56,13,1,2,6
+Q00958_aug_1,"Hello, I noticed an irregular behavior with my Smartphone that I think your team should examine.",Order Management,Smartphone,2025-04-29 13:48:56,13,1,2,6
+Q00959,"Hello team,
+
+There seems to be a malfunction with my Smart TV that needs urgent attention. I would appreciate a prompt response.
+
+Thank you.",Technical Support,Smart TV,2025-05-22 00:24:51,0,3,6,3
+Q00959_aug_1,"Hello team, There seems to be a malfunction with my Smart TV that needs urgent attention. I would appreciate a quick answer. Thank you.",Technical Support,Smart TV,2025-05-22 00:24:51,0,3,6,3
+Q00973,"I hope this message finds you well,
+
+I've been facing persistent problems with my Printer. 
+
+Thank you.",Billing,Printer,2025-05-13 00:20:08,0,1,1,2
+Q00973_aug_1,"I hope this message will find you, I have been confronted with persistent problems with my printer.",Billing,Printer,2025-05-13 00:20:08,0,1,1,2
+Q00976,"Good morning,
+
+I've been facing persistent problems with my Router. 
+
+Thank you.",Billing,Router,2025-05-21 23:25:17,23,2,1,7
+Q00976_aug_1,"Hello, I have been confronted with persistent problems with my router.",Billing,Router,2025-05-21 23:25:17,23,2,1,7
+Q00982,"Hello team,
+
+I need assistance with my Gaming Console regarding a problem that just started this morning. 
+
+Thank you.",Billing,Gaming Console,2025-05-11 23:45:27,23,6,1,1
+Q00982_aug_1,"Hello team, I need help with my game console about a problem that just started this morning. Thank you.",Billing,Gaming Console,2025-05-11 23:45:27,23,6,1,1
+Q00989,"Good morning,
+
+I need assistance with my Tablet regarding a problem that just started this morning. 
+
+Thank you.",Account Management,Tablet,2025-05-16 03:13:57,3,4,0,5
+Q00989_aug_1,"Hello, I need help with my tablet for a problem that just started this morning.",Account Management,Tablet,2025-05-16 03:13:57,3,4,0,5
+Q00991,"Good evening,
+
+My recent experience with the Tablet has been quite disappointing due to several bugs. 
+
+Thank you.",Shipping,Tablet,2025-05-02 10:47:01,10,4,5,5
+Q00991_aug_1,"Good evening, my recent experience with the tablet has been quite disappointing due to several bugs. Thank you.",Shipping,Tablet,2025-05-02 10:47:01,10,4,5,5
+Q00995,"Hi there,
+
+I need assistance with my Tablet regarding a problem that just started this morning. 
+
+Thank you.",Returns & Refunds,Tablet,2025-05-12 01:18:50,1,0,4,5
+Q00995_aug_1,"Hello, I need help with my tablet about a problem that just started this morning.",Returns & Refunds,Tablet,2025-05-12 01:18:50,1,0,4,5
+Q01020,"Hi there,
+
+After the recent update, my Smartwatch isn't working as expected. 
+
+Thank you.",Returns & Refunds,Smartwatch,2025-05-18 19:49:58,19,6,4,0
+Q01020_aug_1,"Hello, After the recent update, my Smartwatch doesn't work as planned. Thank you.",Returns & Refunds,Smartwatch,2025-05-18 19:49:58,19,6,4,0
+Q01021,"To whom it may concern,
+
+After the recent update, my Smart TV isn't working as expected. Please address this issue at your earliest convenience.
+
+Thank you.",Warranty Claims,Smart TV,2025-04-27 20:49:28,20,6,7,3
+Q01021_aug_1,"To whom this may concern, After the recent update, my Smart TV does not work as planned. Please address this problem as soon as possible. Thank you.",Warranty Claims,Smart TV,2025-04-27 20:49:28,20,6,7,3
+Q01046,"Hello team,
+
+There seems to be a malfunction with my Smartwatch that needs urgent attention. 
+
+Thank you.",Billing,Smartwatch,2025-05-01 21:55:43,21,3,1,0
+Q01046_aug_1,"Hello team, there seems to be a malfunction with my Smartwatch that needs urgent attention. Thank you.",Billing,Smartwatch,2025-05-01 21:55:43,21,3,1,0
+Q01050,"I hope this message finds you well,
+
+Could you please assist with an unexpected error I've encountered on my Gaming Console? 
+
+Thank you.",Technical Support,Gaming Console,2025-05-17 16:17:58,16,5,6,1
+Q01050_aug_1,"I hope this message will find you, Can you help with an unexpected mistake that I encountered on my game console? Thank you.",Technical Support,Gaming Console,2025-05-17 16:17:58,16,5,6,1
+Q01054,"Dear support,
+
+I'm writing to report a serious issue with my Smartwatch. 
+
+Thank you.",Product Inquiry,Smartwatch,2025-04-25 11:54:15,11,4,3,0
+Q01054_aug_1,"Dear support, I am writing to report a serious problem with my Smartwatch.",Product Inquiry,Smartwatch,2025-04-25 11:54:15,11,4,3,0
+Q01056,"Good evening,
+
+I noticed some irregular behavior with my Printer that I believe your team should look into. 
+
+Thank you.",Order Management,Printer,2025-04-28 19:21:33,19,0,2,2
+Q01056_aug_1,"Good evening, I noticed an irregular behavior with my printer that I think your team should examine.",Order Management,Printer,2025-04-28 19:21:33,19,0,2,2
+Q01057,"Hi there,
+
+I'm writing to report a serious issue with my Smart TV. 
+
+Thank you.",Warranty Claims,Smart TV,2025-04-24 21:27:46,21,3,7,3
+Q01057_aug_1,"Hello, I'm writing to report a serious problem with my Smart TV.",Warranty Claims,Smart TV,2025-04-24 21:27:46,21,3,7,3
+Q01059,"Hi there,
+
+After the recent update, my Laptop isn't working as expected. I would appreciate a prompt response.
+
+Thank you.",Order Management,Laptop,2025-05-19 13:43:38,13,0,2,4
+Q01059_aug_1,"Hello, After the recent update, my laptop does not work as expected. I would appreciate a quick answer. Thank you.",Order Management,Laptop,2025-05-19 13:43:38,13,0,2,4
+Q01087,"Good morning,
+
+I've been facing persistent problems with my Gaming Console. 
+
+Thank you.",Technical Support,Gaming Console,2025-05-15 03:09:46,3,3,6,1
+Q01087_aug_1,"Hello, I've been confronted with persistent problems with my game console.",Technical Support,Gaming Console,2025-05-15 03:09:46,3,3,6,1
+Q01095,"Hello,
+
+After the recent update, my Tablet isn't working as expected. Kindly resolve this issue as soon as possible.
+
+Thank you.",Technical Support,Tablet,2025-05-16 00:38:18,0,4,6,5
+Q01095_aug_1,"Hello, After the recent update, my tablet does not work as expected. Please fix this problem as soon as possible. Thank you.",Technical Support,Tablet,2025-05-16 00:38:18,0,4,6,5
+Q01100,"Hello,
+
+I need assistance with my Gaming Console regarding a problem that just started this morning. 
+
+Thank you.",Shipping,Gaming Console,2025-05-10 19:27:41,19,5,5,1
+Q01100_aug_1,"Hello, I need help with my game console about a problem that just started this morning. Thank you.",Shipping,Gaming Console,2025-05-10 19:27:41,19,5,5,1
+Q01135,"Good evening,
+
+There seems to be a malfunction with my Gaming Console that needs urgent attention. Please address this issue at your earliest convenience.
+
+Thank you.",Shipping,Gaming Console,2025-05-11 21:21:12,21,6,5,1
+Q01135_aug_1,"Good evening, there seems to be a malfunction with my game console that needs urgent attention. Please treat this problem as soon as possible. Thank you.",Shipping,Gaming Console,2025-05-11 21:21:12,21,6,5,1
+Q01147,"Hi there,
+
+My Laptop has stopped functioning properly and I need help resolving the issue. 
+
+Thank you.",Returns & Refunds,Laptop,2025-05-12 22:38:26,22,0,4,4
+Q01147_aug_1,"Hello, my laptop stopped working properly and I need help solving the problem. Thank you.",Returns & Refunds,Laptop,2025-05-12 22:38:26,22,0,4,4
+Q01151,"Dear support,
+
+This is to bring to your attention an ongoing issue with my Router that hasn't been resolved yet. I would appreciate a prompt response.
+
+Thank you.",Warranty Claims,Router,2025-04-26 14:00:02,14,5,7,7
+Q01151_aug_1,"Dear support, It is a matter of bringing to your attention a permanent problem with my Router that has not yet been solved. I would appreciate a quick answer. Thank you.",Warranty Claims,Router,2025-04-26 14:00:02,14,5,7,7
+Q01157,"Good morning,
+
+I need assistance with my Smartphone regarding a problem that just started this morning. 
+
+Thank you.",Product Inquiry,Smartphone,2025-04-29 00:53:06,0,1,3,6
+Q01157_aug_1,"Hello, I need help with my Smartphone for a problem that just started this morning.",Product Inquiry,Smartphone,2025-04-29 00:53:06,0,1,3,6
+Q01168,"Good morning,
+
+Could you please assist with an unexpected error I've encountered on my Gaming Console? Please look into this matter urgently.
+
+Thank you.",Shipping,Gaming Console,2025-05-01 00:37:59,0,3,5,1
+Q01168_aug_1,"Hello, could you help us with an unexpected mistake that I encountered on my game console? Please consider this question of urgency. Thank you.",Shipping,Gaming Console,2025-05-01 00:37:59,0,3,5,1
+Q01177,"Hi there,
+
+My Printer has stopped functioning properly and I need help resolving the issue. Please address this issue at your earliest convenience.
+
+Thank you.",Warranty Claims,Printer,2025-05-02 05:55:42,5,4,7,2
+Q01177_aug_1,"Hello, My Printer has stopped working properly and I need help solving the problem. Please treat this problem as soon as possible. Thank you.",Warranty Claims,Printer,2025-05-02 05:55:42,5,4,7,2
+Q01181,"Dear support,
+
+I noticed some irregular behavior with my Tablet that I believe your team should look into. 
+
+Thank you.",Account Management,Tablet,2025-05-08 14:15:15,14,3,0,5
+Q01181_aug_1,"Dear support, I noticed an irregular behavior with my tablet that I think your team should examine. Thank you.",Account Management,Tablet,2025-05-08 14:15:15,14,3,0,5
+Q01184,"Good evening,
+
+I noticed some irregular behavior with my Smart TV that I believe your team should look into. 
+
+Thank you.",Order Management,Smart TV,2025-04-30 03:25:46,3,2,2,3
+Q01184_aug_1,"Good evening, I noticed an irregular behavior with my Smart TV that I think your team should review.",Order Management,Smart TV,2025-04-30 03:25:46,3,2,2,3
+Q01203,"Dear support,
+
+My Gaming Console has stopped functioning properly and I need help resolving the issue. 
+
+Thank you.",Shipping,Gaming Console,2025-05-08 05:31:58,5,3,5,1
+Q01203_aug_1,"Dear support, My Gaming Console has stopped working properly and I need help solving the problem. Thank you.",Shipping,Gaming Console,2025-05-08 05:31:58,5,3,5,1
+Q01204,"Good morning,
+
+Could you please assist with an unexpected error I've encountered on my Smartwatch? Kindly resolve this issue as soon as possible.
+
+Thank you.",Shipping,Smartwatch,2025-05-01 15:29:19,15,3,5,0
+Q01204_aug_1,"Hello, could you help with an unexpected mistake that I encountered on my Smartwatch? Please fix this problem as soon as possible. Thank you.",Shipping,Smartwatch,2025-05-01 15:29:19,15,3,5,0
+Q01228,"Dear support,
+
+I need assistance with my Smart TV regarding a problem that just started this morning. 
+
+Thank you.",Shipping,Smart TV,2025-05-10 00:13:35,0,5,5,3
+Q01228_aug_1,"Dear support, I need help with my Smart TV about a problem that just started this morning. Thank you.",Shipping,Smart TV,2025-05-10 00:13:35,0,5,5,3
+Q01249,"I hope this message finds you well,
+
+I noticed some irregular behavior with my Tablet that I believe your team should look into. 
+
+Thank you.",Warranty Claims,Tablet,2025-05-23 00:59:30,0,4,7,5
+Q01249_aug_1,"I hope this message will find you, I noticed an irregular behavior with my tablet that I think your team should examine. Thank you.",Warranty Claims,Tablet,2025-05-23 00:59:30,0,4,7,5
+Q01261,"Hello team,
+
+I noticed some irregular behavior with my Gaming Console that I believe your team should look into. 
+
+Thank you.",Shipping,Gaming Console,2025-05-12 03:29:43,3,0,5,1
+Q01261_aug_1,"Hello team, I noticed an irregular behavior with my game console that I think your team should review. Thank you.",Shipping,Gaming Console,2025-05-12 03:29:43,3,0,5,1
+Q01269,"To whom it may concern,
+
+I'm writing to report a serious issue with my Smartwatch. 
+
+Thank you.",Technical Support,Smartwatch,2025-05-15 15:05:34,15,3,6,0
+Q01269_aug_1,"To whom this may concern, I write to report a serious problem with my Smartwatch.",Technical Support,Smartwatch,2025-05-15 15:05:34,15,3,6,0
+Q01280,"Hi there,
+
+I'm writing to report a serious issue with my Router. Please address this issue at your earliest convenience.
+
+Thank you.",Shipping,Router,2025-05-20 11:43:06,11,1,5,7
+Q01280_aug_1,"Hello, I am writing to report a serious problem with my router. Please address this problem as soon as possible. Thank you.",Shipping,Router,2025-05-20 11:43:06,11,1,5,7
+Q01297,"Hi there,
+
+After the recent update, my Smart TV isn't working as expected. 
+
+Thank you.",Technical Support,Smart TV,2025-05-16 10:15:58,10,4,6,3
+Q01297_aug_1,"Hello, after the recent update, my Smart TV doesn't work as planned. Thank you.",Technical Support,Smart TV,2025-05-16 10:15:58,10,4,6,3
+Q01304,"Hello team,
+
+I've been facing persistent problems with my Smart TV. 
+
+Thank you.",Order Management,Smart TV,2025-05-23 07:43:08,7,4,2,3
+Q01304_aug_1,"Hello team, I have been confronted with persistent problems with my Smart TV. Thank you.",Order Management,Smart TV,2025-05-23 07:43:08,7,4,2,3
+Q01311,"I hope this message finds you well,
+
+This is to bring to your attention an ongoing issue with my Printer that hasn't been resolved yet. 
+
+Thank you.",Shipping,Printer,2025-05-04 19:19:40,19,6,5,2
+Q01311_aug_1,"I hope this message will find you, This is to bring to your attention a permanent problem with my printer that has not yet been solved. Thank you.",Shipping,Printer,2025-05-04 19:19:40,19,6,5,2
+Q01312,"Hello team,
+
+I'm writing to report a serious issue with my Tablet. 
+
+Thank you.",Returns & Refunds,Tablet,2025-05-06 21:24:15,21,1,4,5
+Q01312_aug_1,"Hello, team, I'm writing to report a serious problem with my tablet.",Returns & Refunds,Tablet,2025-05-06 21:24:15,21,1,4,5
+Q01316,"Hello,
+
+After the recent update, my Smart TV isn't working as expected. I would appreciate a prompt response.
+
+Thank you.",Shipping,Smart TV,2025-04-29 20:10:10,20,1,5,3
+Q01316_aug_1,"Hello, After the recent update, my Smart TV does not work as planned. I would appreciate a quick answer. Thank you.",Shipping,Smart TV,2025-04-29 20:10:10,20,1,5,3
+Q01321,"Dear support,
+
+There seems to be a malfunction with my Router that needs urgent attention. 
+
+Thank you.",Returns & Refunds,Router,2025-05-05 14:16:03,14,0,4,7
+Q01321_aug_1,"Dear support, there seems to be a malfunction with my router who needs urgent attention. Thank you.",Returns & Refunds,Router,2025-05-05 14:16:03,14,0,4,7
+Q01328,"Hello,
+
+I'm writing to report a serious issue with my Smartwatch. 
+
+Thank you.",Shipping,Smartwatch,2025-05-23 05:51:52,5,4,5,0
+Q01328_aug_1,"Hello, I am writing to report a serious problem with my Smartwatch.",Shipping,Smartwatch,2025-05-23 05:51:52,5,4,5,0
+Q01332,"Hello,
+
+Could you please assist with an unexpected error I've encountered on my Laptop? 
+
+Thank you.",Product Inquiry,Laptop,2025-05-13 14:25:18,14,1,3,4
+Q01332_aug_1,"Hi, could you help us with an unexpected mistake I met on my laptop?",Product Inquiry,Laptop,2025-05-13 14:25:18,14,1,3,4
+Q01358,"Dear support,
+
+This is to bring to your attention an ongoing issue with my Laptop that hasn't been resolved yet. 
+
+Thank you.",Returns & Refunds,Laptop,2025-05-16 20:14:42,20,4,4,4
+Q01358_aug_1,"Dear support, This is to bring to your attention a permanent problem with my laptop that has not yet been solved. Thank you.",Returns & Refunds,Laptop,2025-05-16 20:14:42,20,4,4,4
+Q01362,"Good evening,
+
+I noticed some irregular behavior with my Printer that I believe your team should look into. 
+
+Thank you.",Order Management,Printer,2025-05-21 15:32:41,15,2,2,2
+Q01362_aug_1,"Good evening, I noticed an irregular behavior with my printer that I think your team should examine.",Order Management,Printer,2025-05-21 15:32:41,15,2,2,2
+Q01364,"Hi there,
+
+My recent experience with the Laptop has been quite disappointing due to several bugs. 
+
+Thank you.",Product Inquiry,Laptop,2025-05-10 18:11:42,18,5,3,4
+Q01364_aug_1,"Hello, My recent experience with the Laptop has been quite disappointing due to several bugs. Thank you.",Product Inquiry,Laptop,2025-05-10 18:11:42,18,5,3,4
+Q01365,"Hello,
+
+I've been facing persistent problems with my Printer. 
+
+Thank you.",Order Management,Printer,2025-05-19 05:11:34,5,0,2,2
+Q01365_aug_1,"Hello, I have been confronted with persistent problems with my printer.",Order Management,Printer,2025-05-19 05:11:34,5,0,2,2
+Q01366,"Dear support,
+
+After the recent update, my Printer isn't working as expected. 
+
+Thank you.",Returns & Refunds,Printer,2025-05-19 20:53:28,20,0,4,2
+Q01366_aug_1,"Dear support, After the recent update, my printer does not work as planned. Thank you.",Returns & Refunds,Printer,2025-05-19 20:53:28,20,0,4,2
+Q01375,"Hello,
+
+I've been facing persistent problems with my Router. I would appreciate a prompt response.
+
+Thank you.",Order Management,Router,2025-05-19 10:08:38,10,0,2,7
+Q01375_aug_1,"Hello, I have been confronted with persistent problems with my router. I would appreciate a quick answer. Thank you.",Order Management,Router,2025-05-19 10:08:38,10,0,2,7
+Q01380,"Good evening,
+
+After the recent update, my Gaming Console isn't working as expected. 
+
+Thank you.",Product Inquiry,Gaming Console,2025-05-02 23:55:17,23,4,3,1
+Q01380_aug_1,"Good evening, after the recent update, my game console doesn't work as planned. Thank you.",Product Inquiry,Gaming Console,2025-05-02 23:55:17,23,4,3,1
+Q01387,"I hope this message finds you well,
+
+I noticed some irregular behavior with my Gaming Console that I believe your team should look into. Looking forward to your swift assistance.
+
+Thank you.",Order Management,Gaming Console,2025-04-29 03:49:00,3,1,2,1
+Q01387_aug_1,"I hope this message finds you well, I noticed an irregular behavior with my game console that I think your team should review. Pending your quick help. Thank you.",Order Management,Gaming Console,2025-04-29 03:49:00,3,1,2,1
+Q01391,"I hope this message finds you well,
+
+I need assistance with my Tablet regarding a problem that just started this morning. 
+
+Thank you.",Shipping,Tablet,2025-05-04 05:49:38,5,6,5,5
+Q01391_aug_1,"I hope this message will find you, I need help with my tablet about a problem that just started this morning. Thank you.",Shipping,Tablet,2025-05-04 05:49:38,5,6,5,5
+Q01394,"To whom it may concern,
+
+My Gaming Console has stopped functioning properly and I need help resolving the issue. Kindly resolve this issue as soon as possible.
+
+Thank you.",Returns & Refunds,Gaming Console,2025-05-02 02:30:32,2,4,4,1
+Q01394_aug_1,"To whom it may concern, My Gaming Console has stopped working properly and I need help solving the problem. Please fix this problem as soon as possible. Thank you.",Returns & Refunds,Gaming Console,2025-05-02 02:30:32,2,4,4,1
+Q01405,"Good evening,
+
+I've been facing persistent problems with my Smartwatch. Please look into this matter urgently.
+
+Thank you.",Warranty Claims,Smartwatch,2025-05-09 18:49:50,18,4,7,0
+Q01405_aug_1,"Good evening, I have been confronted with persistent problems with my Smartwatch. Please consider this issue of urgency. Thank you.",Warranty Claims,Smartwatch,2025-05-09 18:49:50,18,4,7,0
+Q01414,"Hello team,
+
+I noticed some irregular behavior with my Laptop that I believe your team should look into. 
+
+Thank you.",Warranty Claims,Laptop,2025-05-14 15:28:15,15,2,7,4
+Q01414_aug_1,"Hello team, I noticed an irregular behavior with my laptop that I think your team should examine.",Warranty Claims,Laptop,2025-05-14 15:28:15,15,2,7,4
+Q01422,"To whom it may concern,
+
+This is to bring to your attention an ongoing issue with my Smartwatch that hasn't been resolved yet. I would appreciate a prompt response.
+
+Thank you.",Product Inquiry,Smartwatch,2025-05-12 01:28:22,1,0,3,0
+Q01422_aug_1,"To whom this may concern, this is to bring to your attention a continuous problem with my Smartwatch that has not yet been solved. I would like a quick answer. Thank you.",Product Inquiry,Smartwatch,2025-05-12 01:28:22,1,0,3,0
+Q01423,"Dear support,
+
+This is to bring to your attention an ongoing issue with my Smartwatch that hasn't been resolved yet. Please address this issue at your earliest convenience.
+
+Thank you.",Returns & Refunds,Smartwatch,2025-05-05 16:20:03,16,0,4,0
+Q01423_aug_1,"Dear support, This is to bring to your attention a permanent problem with my Smartwatch that has not yet been solved. Please address this problem as soon as possible. Thank you.",Returns & Refunds,Smartwatch,2025-05-05 16:20:03,16,0,4,0
+Q01433,"Dear support,
+
+I need assistance with my Smartwatch regarding a problem that just started this morning. Kindly resolve this issue as soon as possible.
+
+Thank you.",Account Management,Smartwatch,2025-05-12 14:29:01,14,0,0,0
+Q01433_aug_1,"Dear support, I need help with my Smartwatch on a problem that just started this morning. Please solve this problem as soon as possible. Thank you.",Account Management,Smartwatch,2025-05-12 14:29:01,14,0,0,0
+Q01456,"Good evening,
+
+Could you please assist with an unexpected error I've encountered on my Tablet? 
+
+Thank you.",Billing,Tablet,2025-05-02 20:16:54,20,4,1,5
+Q01456_aug_1,"Good evening, could you help us with an unexpected mistake I met on my tablet?",Billing,Tablet,2025-05-02 20:16:54,20,4,1,5
+Q01487,"Dear support,
+
+I need assistance with my Gaming Console regarding a problem that just started this morning. 
+
+Thank you.",Order Management,Gaming Console,2025-05-13 06:07:35,6,1,2,1
+Q01487_aug_1,"Dear support, I need help with my game console about a problem that just started this morning. Thank you.",Order Management,Gaming Console,2025-05-13 06:07:35,6,1,2,1
+Q01492,"Hello team,
+
+I need assistance with my Printer regarding a problem that just started this morning. Looking forward to your swift assistance.
+
+Thank you.",Order Management,Printer,2025-05-16 04:30:32,4,4,2,2
+Q01492_aug_1,"Hello team, I need help with my printer on a problem that just started this morning.",Order Management,Printer,2025-05-16 04:30:32,4,4,2,2
+Q01509,"Good evening,
+
+My Smart TV has stopped functioning properly and I need help resolving the issue. Looking forward to your swift assistance.
+
+Thank you.",Warranty Claims,Smart TV,2025-04-29 19:40:30,19,1,7,3
+Q01509_aug_1,"Good evening, My Smart TV stopped working properly and I need help solving the problem.",Warranty Claims,Smart TV,2025-04-29 19:40:30,19,1,7,3
+Q01512,"Good evening,
+
+I need assistance with my Gaming Console regarding a problem that just started this morning. 
+
+Thank you.",Account Management,Gaming Console,2025-05-22 02:08:24,2,3,0,1
+Q01512_aug_1,"Good evening, I need help with my game console about a problem that just started this morning. Thank you.",Account Management,Gaming Console,2025-05-22 02:08:24,2,3,0,1
+Q01516,"Hello,
+
+I need assistance with my Printer regarding a problem that just started this morning. 
+
+Thank you.",Shipping,Printer,2025-05-17 12:55:28,12,5,5,2
+Q01516_aug_1,"Hello, I need help with my printer about a problem that just started this morning. Thank you.",Shipping,Printer,2025-05-17 12:55:28,12,5,5,2
+Q01523,"To whom it may concern,
+
+After the recent update, my Printer isn't working as expected. I would appreciate a prompt response.
+
+Thank you.",Product Inquiry,Printer,2025-05-14 11:45:18,11,2,3,2
+Q01523_aug_1,"To whom this may concern, After the recent update, my printer does not work as expected. I would appreciate a quick answer. Thank you.",Product Inquiry,Printer,2025-05-14 11:45:18,11,2,3,2
+Q01527,"Dear support,
+
+I noticed some irregular behavior with my Smart TV that I believe your team should look into. 
+
+Thank you.",Shipping,Smart TV,2025-05-01 06:31:39,6,3,5,3
+Q01527_aug_1,"Dear support, I noticed an irregular behavior with my Smart TV that I think your team should review. Thank you.",Shipping,Smart TV,2025-05-01 06:31:39,6,3,5,3
+Q01553,"I hope this message finds you well,
+
+I need assistance with my Gaming Console regarding a problem that just started this morning. Please address this issue at your earliest convenience.
+
+Thank you.",Order Management,Gaming Console,2025-05-12 12:32:22,12,0,2,1
+Q01553_aug_1,"I hope this message finds you well, I need help with my game console about a problem that just started this morning. Please address this problem as soon as possible. Thank you.",Order Management,Gaming Console,2025-05-12 12:32:22,12,0,2,1
+Q01554,"To whom it may concern,
+
+Could you please assist with an unexpected error I've encountered on my Printer? 
+
+Thank you.",Order Management,Printer,2025-05-13 07:41:43,7,1,2,2
+Q01554_aug_1,"To whom can it concern, could you help with an unexpected mistake that I encountered on my printer? Thank you.",Order Management,Printer,2025-05-13 07:41:43,7,1,2,2
+Q01563,"Hello team,
+
+After the recent update, my Smartwatch isn't working as expected. 
+
+Thank you.",Order Management,Smartwatch,2025-05-12 15:01:08,15,0,2,0
+Q01563_aug_1,"Hello team, After the recent update, my Smartwatch doesn't work as planned. Thank you.",Order Management,Smartwatch,2025-05-12 15:01:08,15,0,2,0
+Q01571,"I hope this message finds you well,
+
+My recent experience with the Router has been quite disappointing due to several bugs. 
+
+Thank you.",Warranty Claims,Router,2025-05-02 13:18:59,13,4,7,7
+Q01571_aug_1,"I hope this message finds you well, My recent experience with the Router has been quite disappointing due to several bugs. Thank you.",Warranty Claims,Router,2025-05-02 13:18:59,13,4,7,7
+Q01616,"Hello team,
+
+My recent experience with the Smart TV has been quite disappointing due to several bugs. 
+
+Thank you.",Order Management,Smart TV,2025-05-02 14:09:39,14,4,2,3
+Q01616_aug_1,"Hello team, My recent experience with Smart TV has been quite disappointing due to several bugs. Thank you.",Order Management,Smart TV,2025-05-02 14:09:39,14,4,2,3
+Q01625,"I hope this message finds you well,
+
+Could you please assist with an unexpected error I've encountered on my Smartwatch? 
+
+Thank you.",Account Management,Smartwatch,2025-05-10 15:26:50,15,5,0,0
+Q01625_aug_1,"I hope this message will find you, Can you help with an unexpected mistake that I encountered on my Smartwatch? Thank you.",Account Management,Smartwatch,2025-05-10 15:26:50,15,5,0,0
+Q01630,"To whom it may concern,
+
+I need assistance with my Smartwatch regarding a problem that just started this morning. 
+
+Thank you.",Account Management,Smartwatch,2025-05-09 16:53:33,16,4,0,0
+Q01630_aug_1,"Whom it may interest me, I need help with my Smartwatch about a problem that just started this morning. Thank you.",Account Management,Smartwatch,2025-05-09 16:53:33,16,4,0,0
+Q01636,"Good evening,
+
+I'm writing to report a serious issue with my Tablet. 
+
+Thank you.",Returns & Refunds,Tablet,2025-05-12 22:14:30,22,0,4,5
+Q01636_aug_1,"Good evening, I'm writing to report a serious problem with my tablet.",Returns & Refunds,Tablet,2025-05-12 22:14:30,22,0,4,5
+Q01638,"I hope this message finds you well,
+
+I've been facing persistent problems with my Gaming Console. Kindly resolve this issue as soon as possible.
+
+Thank you.",Account Management,Gaming Console,2025-05-16 20:44:55,20,4,0,1
+Q01638_aug_1,"I hope this message finds you well, I have been confronted with persistent problems with my game console. Please solve this problem as soon as possible. Thank you.",Account Management,Gaming Console,2025-05-16 20:44:55,20,4,0,1
+Q01670,"Good evening,
+
+I've been facing persistent problems with my Smart TV. 
+
+Thank you.",Billing,Smart TV,2025-05-14 19:46:23,19,2,1,3
+Q01670_aug_1,"Good evening, I've been confronted with persistent problems with my Smart TV.",Billing,Smart TV,2025-05-14 19:46:23,19,2,1,3
+Q01681,"Hello,
+
+My Gaming Console has stopped functioning properly and I need help resolving the issue. 
+
+Thank you.",Technical Support,Gaming Console,2025-05-18 13:07:00,13,6,6,1
+Q01681_aug_1,"Hello, My Gaming Console stopped working properly and I need help solving the problem. Thank you.",Technical Support,Gaming Console,2025-05-18 13:07:00,13,6,6,1
+Q01707,"Hi there,
+
+After the recent update, my Smart TV isn't working as expected. 
+
+Thank you.",Warranty Claims,Smart TV,2025-04-29 18:21:36,18,1,7,3
+Q01707_aug_1,"Hello, after the recent update, my Smart TV doesn't work as planned. Thank you.",Warranty Claims,Smart TV,2025-04-29 18:21:36,18,1,7,3
+Q01727,"Good morning,
+
+After the recent update, my Router isn't working as expected. Looking forward to your swift assistance.
+
+Thank you.",Returns & Refunds,Router,2025-05-21 15:15:14,15,2,4,7
+Q01727_aug_1,"Hello, After the recent update, my Router doesn't work as planned.",Returns & Refunds,Router,2025-05-21 15:15:14,15,2,4,7
+Q01735,"To whom it may concern,
+
+This is to bring to your attention an ongoing issue with my Gaming Console that hasn't been resolved yet. 
+
+Thank you.",Account Management,Gaming Console,2025-05-17 05:44:40,5,5,0,1
+Q01735_aug_1,"To whom this may concern, this is to bring to your attention a continuous problem with my game console that has not yet been solved. Thank you.",Account Management,Gaming Console,2025-05-17 05:44:40,5,5,0,1
+Q01737,"Hi there,
+
+This is to bring to your attention an ongoing issue with my Smartphone that hasn't been resolved yet. Looking forward to your swift assistance.
+
+Thank you.",Shipping,Smartphone,2025-04-26 22:18:08,22,5,5,6
+Q01737_aug_1,"Hello, This is to bring to your attention a permanent problem with my smartphone that has not yet been solved.",Shipping,Smartphone,2025-04-26 22:18:08,22,5,5,6
+Q01738,"I hope this message finds you well,
+
+After the recent update, my Smart TV isn't working as expected. Looking forward to your swift assistance.
+
+Thank you.",Order Management,Smart TV,2025-05-09 21:05:04,21,4,2,3
+Q01738_aug_1,"I hope that this message will find you well, After the recent update, my Smart TV does not work as expected.",Order Management,Smart TV,2025-05-09 21:05:04,21,4,2,3
+Q01743,"Hello team,
+
+After the recent update, my Gaming Console isn't working as expected. I would appreciate a prompt response.
+
+Thank you.",Order Management,Gaming Console,2025-04-26 01:27:20,1,5,2,1
+Q01743_aug_1,"Hello team, After the recent update, my game console does not work as expected. I would appreciate a quick answer. Thank you.",Order Management,Gaming Console,2025-04-26 01:27:20,1,5,2,1
+Q01765,"Hello team,
+
+My recent experience with the Smartphone has been quite disappointing due to several bugs. 
+
+Thank you.",Technical Support,Smartphone,2025-05-09 01:17:15,1,4,6,6
+Q01765_aug_1,"Hello team, My recent experience with the Smartphone has been quite disappointing due to several bugs. Thank you.",Technical Support,Smartphone,2025-05-09 01:17:15,1,4,6,6
+Q01788,"Hello team,
+
+I'm writing to report a serious issue with my Printer. Please look into this matter urgently.
+
+Thank you.",Account Management,Printer,2025-05-08 05:18:18,5,3,0,2
+Q01788_aug_1,"Hello team, I write to report a serious problem with my printer. Please consider this issue of urgency. Thank you.",Account Management,Printer,2025-05-08 05:18:18,5,3,0,2
+Q01802,"Dear support,
+
+I've been facing persistent problems with my Router. Looking forward to your swift assistance.
+
+Thank you.",Returns & Refunds,Router,2025-04-30 17:03:52,17,2,4,7
+Q01802_aug_1,"Dear support, I have been confronted with persistent problems with my router, waiting for your quick help. Thank you.",Returns & Refunds,Router,2025-04-30 17:03:52,17,2,4,7
+Q01805,"Good evening,
+
+My Smartwatch has stopped functioning properly and I need help resolving the issue. Please look into this matter urgently.
+
+Thank you.",Order Management,Smartwatch,2025-05-12 19:24:39,19,0,2,0
+Q01805_aug_1,"Good evening, My Smartwatch stopped working properly and I need help solving the problem.",Order Management,Smartwatch,2025-05-12 19:24:39,19,0,2,0
+Q01812,"Good morning,
+
+My Tablet has stopped functioning properly and I need help resolving the issue. Please look into this matter urgently.
+
+Thank you.",Order Management,Tablet,2025-05-13 02:17:01,2,1,2,5
+Q01812_aug_1,"Hello, My tablet stopped working properly and I need help solving the problem.",Order Management,Tablet,2025-05-13 02:17:01,2,1,2,5
+Q01816,"Hello team,
+
+I'm writing to report a serious issue with my Gaming Console. 
+
+Thank you.",Product Inquiry,Gaming Console,2025-05-03 13:51:06,13,5,3,1
+Q01816_aug_1,"Hello team, I'm writing to report a serious problem with my game console. Thank you.",Product Inquiry,Gaming Console,2025-05-03 13:51:06,13,5,3,1
+Q01823,"Hello team,
+
+I need assistance with my Smart TV regarding a problem that just started this morning. Please address this issue at your earliest convenience.
+
+Thank you.",Returns & Refunds,Smart TV,2025-05-01 23:52:13,23,3,4,3
+Q01823_aug_1,"Hello team, I need help with my Smart TV about a problem that just started this morning. Please address this problem as soon as possible. Thank you.",Returns & Refunds,Smart TV,2025-05-01 23:52:13,23,3,4,3
+Q01824,"Hello team,
+
+My recent experience with the Printer has been quite disappointing due to several bugs. 
+
+Thank you.",Account Management,Printer,2025-05-10 22:37:52,22,5,0,2
+Q01824_aug_1,"Hello team, My recent experience with the printer has been quite disappointing due to several bugs. Thank you.",Account Management,Printer,2025-05-10 22:37:52,22,5,0,2
+Q01841,"Hello team,
+
+There seems to be a malfunction with my Tablet that needs urgent attention. Kindly resolve this issue as soon as possible.
+
+Thank you.",Order Management,Tablet,2025-04-28 06:31:12,6,0,2,5
+Q01841_aug_1,"Hello team, There seems to be a malfunction with my tablet that requires urgent attention. Please solve this problem as soon as possible. Thank you.",Order Management,Tablet,2025-04-28 06:31:12,6,0,2,5
+Q01843,"Dear support,
+
+My recent experience with the Printer has been quite disappointing due to several bugs. 
+
+Thank you.",Warranty Claims,Printer,2025-04-24 01:08:03,1,3,7,2
+Q01843_aug_1,"Dear support, My recent experience with the Printer has been quite disappointing due to several bugs. Thank you.",Warranty Claims,Printer,2025-04-24 01:08:03,1,3,7,2
+Q01854,"To whom it may concern,
+
+After the recent update, my Laptop isn't working as expected. 
+
+Thank you.",Warranty Claims,Laptop,2025-05-07 18:39:43,18,2,7,4
+Q01854_aug_1,"To whom this may concern, After the recent update, my laptop does not work as expected. Thank you.",Warranty Claims,Laptop,2025-05-07 18:39:43,18,2,7,4
+Q01876,"Dear support,
+
+I've been facing persistent problems with my Gaming Console. Looking forward to your swift assistance.
+
+Thank you.",Billing,Gaming Console,2025-05-05 19:14:03,19,0,1,1
+Q01876_aug_1,"Dear support, I have been confronted with persistent problems with my gaming console.",Billing,Gaming Console,2025-05-05 19:14:03,19,0,1,1
+Q01878,"Good morning,
+
+After the recent update, my Gaming Console isn't working as expected. 
+
+Thank you.",Shipping,Gaming Console,2025-05-02 05:01:21,5,4,5,1
+Q01878_aug_1,"Hello, After the recent update, my game console doesn't work as expected. Thank you.",Shipping,Gaming Console,2025-05-02 05:01:21,5,4,5,1
+Q01880,"Hello team,
+
+My recent experience with the Smartphone has been quite disappointing due to several bugs. Please address this issue at your earliest convenience.
+
+Thank you.",Returns & Refunds,Smartphone,2025-04-27 06:30:34,6,6,4,6
+Q01880_aug_1,"Hello team, My recent experience with the Smartphone has been quite disappointing due to several bugs. Please address this problem as soon as possible. Thank you.",Returns & Refunds,Smartphone,2025-04-27 06:30:34,6,6,4,6
+Q01901,"Good evening,
+
+My recent experience with the Gaming Console has been quite disappointing due to several bugs. I would appreciate a prompt response.
+
+Thank you.",Product Inquiry,Gaming Console,2025-05-12 19:54:44,19,0,3,1
+Q01901_aug_1,"Good evening, my recent experience with the game console was quite disappointing due to several bugs. I would appreciate a quick answer. Thank you.",Product Inquiry,Gaming Console,2025-05-12 19:54:44,19,0,3,1
+Q01902,"To whom it may concern,
+
+There seems to be a malfunction with my Tablet that needs urgent attention. Kindly resolve this issue as soon as possible.
+
+Thank you.",Warranty Claims,Tablet,2025-05-21 12:04:58,12,2,7,5
+Q01902_aug_1,"To whom this may concern, there seems to be a malfunction with my tablet that needs urgent attention.",Warranty Claims,Tablet,2025-05-21 12:04:58,12,2,7,5
+Q01924,"Hi there,
+
+I need assistance with my Printer regarding a problem that just started this morning. Looking forward to your swift assistance.
+
+Thank you.",Returns & Refunds,Printer,2025-05-08 17:38:03,17,3,4,2
+Q01924_aug_1,"Hello, I need help with my printer on a problem that just started this morning.",Returns & Refunds,Printer,2025-05-08 17:38:03,17,3,4,2
+Q01939,"Hello team,
+
+There seems to be a malfunction with my Smart TV that needs urgent attention. 
+
+Thank you.",Warranty Claims,Smart TV,2025-05-03 10:40:36,10,5,7,3
+Q01939_aug_1,"Hello team, There seems to be a malfunction with my Smart TV that needs urgent attention. Thank you.",Warranty Claims,Smart TV,2025-05-03 10:40:36,10,5,7,3
+Q01942,"I hope this message finds you well,
+
+I've been facing persistent problems with my Printer. 
+
+Thank you.",Shipping,Printer,2025-05-18 09:34:44,9,6,5,2
+Q01942_aug_1,"I hope this message will find you, I have been confronted with persistent problems with my printer.",Shipping,Printer,2025-05-18 09:34:44,9,6,5,2
+Q01956,"I hope this message finds you well,
+
+This is to bring to your attention an ongoing issue with my Smartwatch that hasn't been resolved yet. 
+
+Thank you.",Returns & Refunds,Smartwatch,2025-04-25 11:27:16,11,4,4,0
+Q01956_aug_1,"I hope this message will find you, This is to bring to your attention a permanent problem with my Smartwatch that has not yet been solved. Thank you.",Returns & Refunds,Smartwatch,2025-04-25 11:27:16,11,4,4,0
+Q01975,"I hope this message finds you well,
+
+My Printer has stopped functioning properly and I need help resolving the issue. 
+
+Thank you.",Warranty Claims,Printer,2025-05-15 20:25:18,20,3,7,2
+Q01975_aug_1,"I hope this message will find you, my printer has stopped working properly and I need help solving the problem. Thank you.",Warranty Claims,Printer,2025-05-15 20:25:18,20,3,7,2
+Q01995,"Hi there,
+
+I'm writing to report a serious issue with my Gaming Console. 
+
+Thank you.",Product Inquiry,Gaming Console,2025-05-09 08:00:18,8,4,3,1
+Q01995_aug_1,"Hello, I'm writing to report a serious problem with my game console.",Product Inquiry,Gaming Console,2025-05-09 08:00:18,8,4,3,1
+Q01998,"Good morning,
+
+I need assistance with my Laptop regarding a problem that just started this morning. 
+
+Thank you.",Technical Support,Laptop,2025-04-28 14:08:24,14,0,6,4
+Q01998_aug_1,"Hello, I need help with my laptop for a problem that just started this morning.",Technical Support,Laptop,2025-04-28 14:08:24,14,0,6,4
