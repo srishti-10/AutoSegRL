@@ -1,0 +1,56 @@
+{
+  "tokens": [
+    "how",
+    "do",
+    "i",
+    "connect",
+    "my",
+    "smartwatch",
+    "to",
+    "my",
+    "phone",
+    "?"
+  ],
+  "lemmas": [
+    "how",
+    "do",
+    "I",
+    "connect",
+    "my",
+    "smartwatch",
+    "to",
+    "my",
+    "phone",
+    "?"
+  ],
+  "pos_tags": [
+    "SCONJ",
+    "AUX",
+    "PRON",
+    "VERB",
+    "PRON",
+    "NOUN",
+    "ADP",
+    "PRON",
+    "NOUN",
+    "PUNCT"
+  ],
+  "entities": [],
+  "noun_phrases": [
+    "i",
+    "my smartwatch",
+    "my phone"
+  ],
+  "devices_mentioned": [
+    "smartwatch",
+    "phone"
+  ],
+  "issue_indicators": [],
+  "urgency_score": 0.0,
+  "complexity_score": 0.295,
+  "key_terms": [
+    "connect",
+    "smartwatch",
+    "phone"
+  ]
+}

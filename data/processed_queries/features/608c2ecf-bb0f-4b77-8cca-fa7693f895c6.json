@@ -1,0 +1,54 @@
+{
+  "tokens": [
+    "need",
+    "immediate",
+    "help",
+    "with",
+    "gaming",
+    "console",
+    "not",
+    "turning",
+    "on"
+  ],
+  "lemmas": [
+    "need",
+    "immediate",
+    "help",
+    "with",
+    "gaming",
+    "console",
+    "not",
+    "turn",
+    "on"
+  ],
+  "pos_tags": [
+    "VERB",
+    "ADJ",
+    "NOUN",
+    "ADP",
+    "NOUN",
+    "NOUN",
+    "PART",
+    "VERB",
+    "ADP"
+  ],
+  "entities": [],
+  "noun_phrases": [
+    "immediate help",
+    "gaming console"
+  ],
+  "devices_mentioned": [
+    "gaming",
+    "console"
+  ],
+  "issue_indicators": [],
+  "urgency_score": 0.0,
+  "complexity_score": 0.33444444444444443,
+  "key_terms": [
+    "need",
+    "help",
+    "gaming",
+    "console",
+    "turn"
+  ]
+}

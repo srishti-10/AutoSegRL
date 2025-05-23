@@ -1,0 +1,30 @@
+{
+  "queries": {
+    "14b52a2b-14db-480c-83eb-3d2b15a74f16": {
+      "text": "URGENT: My laptop keeps crashing during video calls!",
+      "timestamp": "2025-05-23T20:29:54.533570",
+      "embedding_file": "data/processed_queries\\embeddings\\14b52a2b-14db-480c-83eb-3d2b15a74f16.npy",
+      "features_file": "data/processed_queries\\features\\14b52a2b-14db-480c-83eb-3d2b15a74f16.json"
+    },
+    "6b78fa59-9176-47fa-81e7-872fda838d6c": {
+      "text": "How do I connect my smartwatch to my phone?",
+      "timestamp": "2025-05-23T20:29:54.599371",
+      "embedding_file": "data/processed_queries\\embeddings\\6b78fa59-9176-47fa-81e7-872fda838d6c.npy",
+      "features_file": "data/processed_queries\\features\\6b78fa59-9176-47fa-81e7-872fda838d6c.json"
+    },
+    "3c0c004f-b9c2-4ba8-a8d0-6f9a9a6ddd89": {
+      "text": "The printer is showing a paper jam error, but there's no paper stuck.",
+      "timestamp": "2025-05-23T20:29:54.682683",
+      "embedding_file": "data/processed_queries\\embeddings\\3c0c004f-b9c2-4ba8-a8d0-6f9a9a6ddd89.npy",
+      "features_file": "data/processed_queries\\features\\3c0c004f-b9c2-4ba8-a8d0-6f9a9a6ddd89.json"
+    },
+    "608c2ecf-bb0f-4b77-8cca-fa7693f895c6": {
+      "text": "Need immediate help with gaming console not turning on",
+      "timestamp": "2025-05-23T20:29:54.757878",
+      "embedding_file": "data/processed_queries\\embeddings\\608c2ecf-bb0f-4b77-8cca-fa7693f895c6.npy",
+      "features_file": "data/processed_queries\\features\\608c2ecf-bb0f-4b77-8cca-fa7693f895c6.json"
+    }
+  },
+  "total_count": 4,
+  "last_updated": "2025-05-23T20:29:54.757878"
+}

@@ -1,0 +1,78 @@
+{
+  "tokens": [
+    "the",
+    "printer",
+    "is",
+    "showing",
+    "a",
+    "paper",
+    "jam",
+    "error",
+    ",",
+    "but",
+    "there",
+    "s",
+    "no",
+    "paper",
+    "stuck",
+    "."
+  ],
+  "lemmas": [
+    "the",
+    "printer",
+    "be",
+    "show",
+    "a",
+    "paper",
+    "jam",
+    "error",
+    ",",
+    "but",
+    "there",
+    "s",
+    "no",
+    "paper",
+    "stick",
+    "."
+  ],
+  "pos_tags": [
+    "DET",
+    "NOUN",
+    "AUX",
+    "VERB",
+    "DET",
+    "NOUN",
+    "NOUN",
+    "NOUN",
+    "PUNCT",
+    "CCONJ",
+    "PRON",
+    "VERB",
+    "DET",
+    "NOUN",
+    "VERB",
+    "PUNCT"
+  ],
+  "entities": [],
+  "noun_phrases": [
+    "the printer",
+    "a paper jam error",
+    "no paper"
+  ],
+  "devices_mentioned": [
+    "printer"
+  ],
+  "issue_indicators": [
+    "stuck",
+    "error"
+  ],
+  "urgency_score": 0.0,
+  "complexity_score": 0.195,
+  "key_terms": [
+    "paper",
+    "printer",
+    "show",
+    "jam",
+    "error"
+  ]
+}

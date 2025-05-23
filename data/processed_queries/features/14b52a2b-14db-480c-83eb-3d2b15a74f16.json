@@ -1,0 +1,55 @@
+{
+  "tokens": [
+    "urgent",
+    "my",
+    "laptop",
+    "keeps",
+    "crashing",
+    "during",
+    "video",
+    "calls",
+    "!"
+  ],
+  "lemmas": [
+    "urgent",
+    "my",
+    "laptop",
+    "keep",
+    "crash",
+    "during",
+    "video",
+    "call",
+    "!"
+  ],
+  "pos_tags": [
+    "ADJ",
+    "PRON",
+    "NOUN",
+    "VERB",
+    "VERB",
+    "ADP",
+    "NOUN",
+    "NOUN",
+    "PUNCT"
+  ],
+  "entities": [],
+  "noun_phrases": [
+    "my laptop",
+    "video calls"
+  ],
+  "devices_mentioned": [
+    "laptop"
+  ],
+  "issue_indicators": [
+    "crash"
+  ],
+  "urgency_score": 0.8,
+  "complexity_score": 0.22555555555555556,
+  "key_terms": [
+    "laptop",
+    "keep",
+    "crash",
+    "video",
+    "call"
+  ]
+}
